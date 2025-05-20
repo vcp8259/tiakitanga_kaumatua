@@ -5,7 +5,7 @@
 
 *Mapping the invisible currents of manipulation.*
 
-*AI that listens to time · speech · behaviour: when no-one else will.*
+** LLMs that listen to time · speech · behaviour: when no-one else will. **
 
 ---
 *Protect mana* · *Empower choice* · *Honour forebears*
