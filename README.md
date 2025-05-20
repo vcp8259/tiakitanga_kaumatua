@@ -17,7 +17,7 @@
 ▪︎ *Autonomy preserved*  
 ▪︎ *Unseen insight elicitation*
 
-## **Threat Vectors**  
+## ↹ **Threat Vectors**  
 ⋯ *Urgency:* subtle time-pressure  
 ⋯ *Authority:* counterfeit voices  
 ⋯ *Isolation:* shrinking networks  
