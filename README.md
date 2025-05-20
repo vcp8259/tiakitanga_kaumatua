@@ -8,16 +8,16 @@
 *AI that listens to time · speech · behaviour — when no-one else will.*
 
 ---
-### **Why**  
+## **Why**  
 • *Protect mana* · *Empower choice* · *Honour forebears*
 
-### **Pillars**  
+## **Pillars**  
 ▪︎ *Kaitiakitanga*  
 ▪︎ *Privacy-first edge AI*  
 ▪︎ *Autonomy preserved*  
 ▪︎ *Unseen insight elicitation*
 
-### **Threat Vectors**  
+## **Threat Vectors**  
 → *Urgency:* subtle time-pressure  
 → *Authority:* counterfeit voices  
 → *Isolation:* shrinking networks  
@@ -26,12 +26,7 @@
 → *Identity:* eroding self-image  
 → *Future Fear:* looming anxieties  
 
-### **How**  
-↦ *Whanaungatanga · Patterns across moments*
+## **How**  
+✴︎ *Whanaungatanga · Patterns across moments*
 
-© GPL v3
-
----
-
-Let me know if you'd like me to adjust the hierarchy or add emphasis elsewhere!
-
+© GPL v3 | ↟
