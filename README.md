@@ -1,6 +1,6 @@
 # Tiakitanga Kaumatua  
 *“He aha te mea nui o te ao? He tangata, he tangata, he tangata.”*
-
+---
 ⟨∇⟩ **Defence Architecture · Pattern Recognition · Cognitive Sovereignty**
 
 *Mapping the invisible currents of manipulation.*
