@@ -5,7 +5,7 @@
 
 *Mapping the invisible currents of manipulation.*
 
-*AI that listens to time · speech · behaviour — when no-one else will.*
+*AI that listens to time · speech · behaviour when no-one else will.*
 
 ---
 ## **Why**  
