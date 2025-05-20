@@ -11,7 +11,7 @@
 *Protect mana* · *Empower choice* · *Honour forebears*
 ---
 
-## **Pillars**  
+## || **Pillars**  
 ▪︎ *Kaitiakitanga*  
 ▪︎ *Privacy-first edge AI*  
 ▪︎ *Autonomy preserved*  
@@ -26,7 +26,7 @@
 ⋯ *Identity:* eroding self-image  
 ⋯ *Future Fear:* looming anxieties  
 
-## **How**  
+## ↳ **How**  
 ✴︎ *Whanaungatanga · Patterns across moments*
 
 © GPL v3 | ↟
